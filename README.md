@@ -59,17 +59,18 @@ The project demonstrates problem-solving and programming concepts covered in CSE
 
 -The project can be tested by checking each module separately.
 
-Task Manager Testing
+### Task Manager Testing
 - Add a task and verify that it appears in the task list. 
 - View tasks when no tasks are present.
 - Delete a valid task.
 - Enter an invalid task number and verify the error message.
-Performance Analyzer Testing
+  
+### Performance Analyzer Testing
 - Enter marks for multiple subjects.
 - Check the calculated average.
 - Check the highest and lowest marks.
 - Verify the performance category.
-Search & Sort Testing
+### Search & Sort Testing
 - Search for an existing task.
 - Search for a task that does not exist.
 - Sort tasks.
