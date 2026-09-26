@@ -47,33 +47,33 @@ The project demonstrates problem-solving and programming concepts covered in CSE
 - Sorting
 - Basic input/output operations
 ### 4. How to Run
--Install Python on the system.
--Open Python IDLE.
--Keep all project files in the same folder.
--Open main.py in IDLE.
--Select Run → Run Module or press F5.
--The main menu will appear in the Python Shell.
--Select the required option by entering the corresponding number.
+- Install Python on the system.
+- Open Python IDLE.
+- Keep all project files in the same folder.
+- Open main.py in IDLE.
+- Select Run → Run Module or press F5.
+- The main menu will appear in the Python Shell.
+- Select the required option by entering the corresponding number.
 
 ### 5. Testing
 
 -The project can be tested by checking each module separately.
 
 Task Manager Testing
--Add a task and verify that it appears in the task list.
--View tasks when no tasks are present.
--Delete a valid task.
--Enter an invalid task number and verify the error message.
+- Add a task and verify that it appears in the task list. 
+- View tasks when no tasks are present.
+- Delete a valid task.
+- Enter an invalid task number and verify the error message.
 Performance Analyzer Testing
--Enter marks for multiple subjects.
--Check the calculated average.
--Check the highest and lowest marks.
--Verify the performance category.
+- Enter marks for multiple subjects.
+- Check the calculated average.
+- Check the highest and lowest marks.
+- Verify the performance category.
 Search & Sort Testing
--Search for an existing task.
--Search for a task that does not exist.
--Sort tasks.
--Sort marks.
+- Search for an existing task.
+- Search for a task that does not exist.
+- Sort tasks.
+- Sort marks.
 ## Project Structure
 
 ```text
