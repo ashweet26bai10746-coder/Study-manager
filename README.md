@@ -35,7 +35,7 @@ The project demonstrates problem-solving and programming concepts covered in CSE
 - Allows the user to navigate between modules
 - Provides an option to exit the system
 
-## Technologies Used
+### 3. Technologies Used
 
 - Python
 - Python IDLE
@@ -46,7 +46,7 @@ The project demonstrates problem-solving and programming concepts covered in CSE
 - Searching
 - Sorting
 - Basic input/output operations
-## How to Run
+### 4. How to Run
 -Install Python on the system.
 -Open Python IDLE.
 -Keep all project files in the same folder.
@@ -55,7 +55,7 @@ The project demonstrates problem-solving and programming concepts covered in CSE
 -The main menu will appear in the Python Shell.
 -Select the required option by entering the corresponding number.
 
-## Testing
+### 5. Testing
 
 -The project can be tested by checking each module separately.
 
